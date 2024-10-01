@@ -121,9 +121,9 @@ aside p:hover{
     }
 }
 
-@media screen and (max-width: 407px){
+@media screen and (max-width: 406px){
     .container{
-        margin-top: 8rem;
+        margin-top: 10rem;
     }
     .aside-wrapper{
         display: flex;
